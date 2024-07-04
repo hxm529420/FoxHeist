@@ -1,0 +1,83 @@
+
+bonus_Win.png
+size: 1971,878
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_10
+  rotate: false
+  xy: 1184, 449
+  size: 588, 427
+  orig: 595, 450
+  offset: 1, 6
+  index: -1
+1_11
+  rotate: false
+  xy: 1184, 134
+  size: 576, 313
+  orig: 591, 317
+  offset: 13, 3
+  index: -1
+1_2
+  rotate: true
+  xy: 1774, 232
+  size: 644, 154
+  orig: 649, 158
+  offset: 3, 3
+  index: -1
+1_3
+  rotate: true
+  xy: 1930, 688
+  size: 188, 39
+  orig: 190, 41
+  offset: 1, 1
+  index: -1
+1_6
+  rotate: false
+  xy: 1184, 12
+  size: 624, 120
+  orig: 624, 120
+  offset: 0, 0
+  index: -1
+1_7
+  rotate: false
+  xy: 2, 2
+  size: 1180, 187
+  orig: 1190, 189
+  offset: 5, 1
+  index: -1
+1_8
+  rotate: true
+  xy: 2, 191
+  size: 685, 563
+  orig: 688, 565
+  offset: 1, 1
+  index: -1
+1_8_00000
+  rotate: false
+  xy: 567, 500
+  size: 425, 376
+  orig: 482, 396
+  offset: 28, 9
+  index: -1
+sdt
+  rotate: false
+  xy: 567, 198
+  size: 355, 300
+  orig: 357, 302
+  offset: 1, 1
+  index: -1
+tx/1_13
+  rotate: true
+  xy: 924, 284
+  size: 214, 216
+  orig: 217, 219
+  offset: 1, 1
+  index: -1
+tx/hg
+  rotate: false
+  xy: 1762, 141
+  size: 112, 89
+  orig: 112, 91
+  offset: 0, 0
+  index: -1

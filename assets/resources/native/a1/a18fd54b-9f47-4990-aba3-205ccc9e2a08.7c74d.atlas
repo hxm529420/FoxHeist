@@ -1,0 +1,20 @@
+
+xiaoerduo_zuo.png
+size: 115,69
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dengzuo
+  rotate: false
+  xy: 61, 4
+  size: 52, 63
+  orig: 52, 63
+  offset: 0, 0
+  index: -1
+paizi
+  rotate: false
+  xy: 2, 2
+  size: 57, 65
+  orig: 85, 85
+  offset: 14, 11
+  index: -1

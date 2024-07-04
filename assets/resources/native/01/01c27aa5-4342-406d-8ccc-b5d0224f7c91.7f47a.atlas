@@ -1,0 +1,27 @@
+
+symbols2.png
+size: 142,94
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+r5_j
+  rotate: true
+  xy: 85, 40
+  size: 52, 55
+  orig: 55, 55
+  offset: 3, 0
+  index: -1
+r5_z
+  rotate: false
+  xy: 85, 2
+  size: 40, 36
+  orig: 40, 36
+  offset: 0, 0
+  index: -1
+xg_01
+  rotate: false
+  xy: 2, 11
+  size: 81, 81
+  orig: 102, 102
+  offset: 10, 10
+  index: -1

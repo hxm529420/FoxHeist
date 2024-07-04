@@ -1,0 +1,83 @@
+
+jp_jiesuo.png
+size: 1361,504
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fsg01
+  rotate: false
+  xy: 588, 344
+  size: 458, 158
+  orig: 539, 198
+  offset: 40, 32
+  index: -1
+fsg02
+  rotate: false
+  xy: 588, 181
+  size: 400, 161
+  orig: 441, 181
+  offset: 22, 12
+  index: -1
+fsg03
+  rotate: false
+  xy: 588, 18
+  size: 355, 161
+  orig: 382, 180
+  offset: 10, 13
+  index: -1
+fsg04
+  rotate: false
+  xy: 990, 112
+  size: 336, 158
+  orig: 367, 168
+  offset: 19, 5
+  index: -1
+gx
+  rotate: false
+  xy: 2, 2
+  size: 584, 500
+  orig: 658, 658
+  offset: 44, 102
+  index: -1
+lg1
+  rotate: false
+  xy: 1048, 427
+  size: 311, 75
+  orig: 333, 95
+  offset: 11, 12
+  index: -1
+lg2
+  rotate: false
+  xy: 1048, 350
+  size: 268, 75
+  orig: 283, 96
+  offset: 7, 13
+  index: -1
+lg3
+  rotate: false
+  xy: 1048, 272
+  size: 240, 76
+  orig: 255, 93
+  offset: 8, 10
+  index: -1
+lg4
+  rotate: false
+  xy: 945, 35
+  size: 224, 75
+  orig: 238, 91
+  offset: 7, 9
+  index: -1
+xg_01
+  rotate: false
+  xy: 1280, 46
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+xm_475
+  rotate: true
+  xy: 1171, 6
+  size: 104, 107
+  orig: 128, 128
+  offset: 10, 11
+  index: -1

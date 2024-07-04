@@ -1,0 +1,62 @@
+
+symbols4.png
+size: 206,93
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+r3_di
+  rotate: false
+  xy: 85, 24
+  size: 64, 67
+  orig: 64, 67
+  offset: 0, 0
+  index: -1
+r3_g
+  rotate: false
+  xy: 151, 26
+  size: 53, 65
+  orig: 53, 65
+  offset: 0, 0
+  index: -1
+r3_hs
+  rotate: true
+  xy: 103, 5
+  size: 17, 15
+  orig: 17, 16
+  offset: 0, 1
+  index: -1
+r3_hx
+  rotate: true
+  xy: 137, 8
+  size: 14, 11
+  orig: 14, 11
+  offset: 0, 0
+  index: -1
+r3_m
+  rotate: true
+  xy: 120, 5
+  size: 17, 15
+  orig: 17, 15
+  offset: 0, 0
+  index: -1
+r3_mz
+  rotate: false
+  xy: 85, 6
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+r3_zhen
+  rotate: true
+  xy: 151, 2
+  size: 22, 31
+  orig: 22, 31
+  offset: 0, 0
+  index: -1
+xg_01
+  rotate: false
+  xy: 2, 10
+  size: 81, 81
+  orig: 102, 102
+  offset: 10, 10
+  index: -1

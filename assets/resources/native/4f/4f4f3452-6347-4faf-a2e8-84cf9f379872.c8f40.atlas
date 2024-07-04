@@ -1,0 +1,258 @@
+
+gaoliang_jiangchi.png
+size: 1991,492
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lg1
+  rotate: true
+  xy: 512, 3
+  size: 282, 69
+  orig: 300, 86
+  offset: 9, 10
+  index: -1
+lg2
+  rotate: false
+  xy: 1101, 2
+  size: 242, 68
+  orig: 255, 86
+  offset: 6, 11
+  index: -1
+lg3
+  rotate: false
+  xy: 1637, 4
+  size: 217, 69
+  orig: 230, 84
+  offset: 7, 9
+  index: -1
+lg4
+  rotate: false
+  xy: 1345, 2
+  size: 202, 68
+  orig: 214, 82
+  offset: 6, 8
+  index: -1
+xg_01
+  rotate: false
+  xy: 1549, 12
+  size: 58, 58
+  orig: 58, 58
+  offset: 0, 0
+  index: -1
+xm_475
+  rotate: true
+  xy: 1900, 191
+  size: 90, 89
+  orig: 115, 115
+  offset: 11, 13
+  index: -1
+zj01
+  rotate: true
+  xy: 104, 2
+  size: 283, 99
+  orig: 332, 144
+  offset: 27, 25
+  index: -1
+zj02
+  rotate: false
+  xy: 856, 393
+  size: 282, 97
+  orig: 332, 144
+  offset: 28, 26
+  index: -1
+zj03
+  rotate: false
+  xy: 2, 287
+  size: 282, 101
+  orig: 332, 144
+  offset: 28, 24
+  index: -1
+zj04
+  rotate: true
+  xy: 305, 4
+  size: 281, 102
+  orig: 332, 144
+  offset: 29, 24
+  index: -1
+zj05
+  rotate: true
+  xy: 409, 6
+  size: 279, 101
+  orig: 332, 144
+  offset: 30, 24
+  index: -1
+zj06
+  rotate: false
+  xy: 1421, 389
+  size: 278, 101
+  orig: 332, 144
+  offset: 30, 24
+  index: -1
+zj07
+  rotate: true
+  xy: 688, 9
+  size: 276, 101
+  orig: 332, 144
+  offset: 31, 24
+  index: -1
+zj08
+  rotate: true
+  xy: 583, 10
+  size: 275, 103
+  orig: 332, 144
+  offset: 31, 23
+  index: -1
+zj09
+  rotate: false
+  xy: 1404, 285
+  size: 271, 102
+  orig: 332, 144
+  offset: 33, 23
+  index: -1
+zj10
+  rotate: false
+  xy: 1677, 283
+  size: 268, 103
+  orig: 332, 144
+  offset: 35, 23
+  index: -1
+zj11
+  rotate: false
+  xy: 1370, 180
+  size: 265, 103
+  orig: 332, 144
+  offset: 36, 23
+  index: -1
+zj12
+  rotate: false
+  xy: 1637, 178
+  size: 261, 103
+  orig: 332, 144
+  offset: 39, 23
+  index: -1
+zj13
+  rotate: false
+  xy: 1637, 75
+  size: 257, 101
+  orig: 332, 144
+  offset: 40, 24
+  index: -1
+zj14
+  rotate: true
+  xy: 894, 12
+  size: 273, 102
+  orig: 332, 144
+  offset: 33, 23
+  index: -1
+zj15
+  rotate: false
+  xy: 288, 389
+  size: 282, 101
+  orig: 332, 144
+  offset: 28, 24
+  index: -1
+zj16
+  rotate: true
+  xy: 2, 2
+  size: 283, 100
+  orig: 332, 144
+  offset: 27, 24
+  index: -1
+zj17
+  rotate: true
+  xy: 205, 2
+  size: 283, 98
+  orig: 332, 144
+  offset: 27, 25
+  index: -1
+zj18
+  rotate: false
+  xy: 572, 391
+  size: 282, 99
+  orig: 332, 144
+  offset: 28, 25
+  index: -1
+zj19
+  rotate: false
+  xy: 286, 287
+  size: 281, 100
+  orig: 332, 144
+  offset: 28, 24
+  index: -1
+zj20
+  rotate: false
+  xy: 1140, 389
+  size: 279, 101
+  orig: 332, 144
+  offset: 29, 24
+  index: -1
+zj21
+  rotate: false
+  xy: 1701, 388
+  size: 277, 102
+  orig: 332, 144
+  offset: 30, 23
+  index: -1
+zj22
+  rotate: true
+  xy: 791, 10
+  size: 275, 101
+  orig: 332, 144
+  offset: 31, 24
+  index: -1
+zj23
+  rotate: false
+  xy: 1127, 287
+  size: 275, 100
+  orig: 332, 144
+  offset: 31, 24
+  index: -1
+zj24
+  rotate: true
+  xy: 998, 12
+  size: 273, 101
+  orig: 332, 144
+  offset: 32, 23
+  index: -1
+zj25
+  rotate: false
+  xy: 856, 287
+  size: 269, 104
+  orig: 332, 144
+  offset: 34, 22
+  index: -1
+zj26
+  rotate: false
+  xy: 1101, 178
+  size: 267, 107
+  orig: 332, 144
+  offset: 35, 21
+  index: -1
+zj27
+  rotate: false
+  xy: 1371, 72
+  size: 264, 106
+  orig: 332, 144
+  offset: 37, 21
+  index: -1
+zj28
+  rotate: false
+  xy: 1101, 72
+  size: 268, 104
+  orig: 332, 144
+  offset: 34, 22
+  index: -1
+zj29
+  rotate: false
+  xy: 572, 287
+  size: 276, 102
+  orig: 332, 144
+  offset: 30, 23
+  index: -1
+zj30
+  rotate: false
+  xy: 2, 390
+  size: 284, 100
+  orig: 332, 144
+  offset: 26, 24
+  index: -1
